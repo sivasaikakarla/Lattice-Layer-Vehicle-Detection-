@@ -26,7 +26,7 @@ pip install opencv-python numpy pandas openpyxl psutil
 Modify `user_input_data.json` to set up the processing parameters:
 ```json
 {
-    "video": "path/to/your/video.mp4",
+    "video": "video_input.mp4",
     "color_channel": "V",
     "grids": {
         "rows": 6,
