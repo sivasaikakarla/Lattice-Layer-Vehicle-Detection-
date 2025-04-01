@@ -57,7 +57,8 @@ python seq.py
 ```
 
 ## Output
-- `test_output1.mp4`: Processed video with detected motion highlighted.
+- `test_output1.mp4` or `output_seq.py`: Processed video with detected motion highlighted.
+- 
 - Console logs with traffic density statistics.
 - `result_matrix1.xlsx`: (Optional) Stores processed grid results.
 
