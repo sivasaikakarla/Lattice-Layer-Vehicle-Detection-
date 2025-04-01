@@ -51,6 +51,10 @@ To process a video file directly without GUI:
 ```sh
 python rparallel_he3.py
 ```
+or
+```sh
+python seq.py
+```
 
 ## Output
 - `test_output1.mp4`: Processed video with detected motion highlighted.
